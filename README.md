@@ -1,1 +1,1 @@
-# [MY PORTFOLIO ✨](https://aririyadi.github.io/myportfolio/)
+# [MY Portfolio ✨](https://aririyadi.github.io/myportfolio/)
