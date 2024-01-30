@@ -1,1 +1,1 @@
-# [✨ Visit My Web ✨](https://aririyadi.github.io/myportfolio/)
+# [✨ My Site ✨](https://aririyadi.github.io/mysite/)
