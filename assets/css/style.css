@@ -597,7 +597,7 @@ section {
 }
 
 .about .content ul li {
-  padding-bottom: 10px;
+  padding-bottom: 0;
 }
 
 .about .content ul i {
@@ -607,7 +607,7 @@ section {
 }
 
 .about .content p:last-child {
-  margin-bottom: 5px;
+  margin-bottom: 0;
 }
 
 /*--------------------------------------------------------------
