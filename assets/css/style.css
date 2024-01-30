@@ -597,7 +597,7 @@ section {
 }
 
 .about .content ul li {
-  padding-bottom: 0;
+  padding-bottom: 10px;
 }
 
 .about .content ul i {
